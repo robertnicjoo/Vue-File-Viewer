@@ -1,2 +1,3 @@
-# Vue-File-Viewer
-Created with CodeSandbox
+# Vue File Viewer
+
+VueJs file viewer
